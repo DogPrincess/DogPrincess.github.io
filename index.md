@@ -24,4 +24,4 @@
 
 <br><br>
 # [대표 이미지]
-<img src = .img/으왈컹_엔딩모음.png>
+<img src ="./img/으왈컹_엔딩모음.png">
