@@ -172,10 +172,9 @@ npc에 따라 기술을 배울 때 주는 보너스나 페널티가 바뀜.
 |-----:|:-----:|-----|  
 |1|플레이어 캐릭터|<img src = "./img/으왈컹_주인공.png" width="300">|  
 |2|마을|<img src="./img/으왈컹_마을지도.png" width="300">|  
-|3|NPC|<img src="./img/으왈컹_주인공.png" width="300">|
-|4|옷장|<img src="./img/으왈컹_옷장" width="300">|  
-|5|선택지|<img src="./img/으왈컹_선택지화면.png" width="300">|  
-|6|스케쥴|<img src="./img/으왈컹_스케쥴화면.png" width="300">|  
+|3|아이템|<img src="./img/으왈컹_옷장" width="300">|  
+|4|선택지|<img src="./img/으왈컹_선택지화면.png" width="300">|  
+|5|스케쥴|<img src="./img/으왈컹_스케쥴화면.png" width="300">|  
 
 
 ## [파라미터 뽑아보기]
