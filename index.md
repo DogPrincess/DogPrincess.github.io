@@ -168,7 +168,7 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|  
 |-----:|:-----:|-----|  
-|1|플레이어 캐릭터|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "./img/Citrin_smile.png" width="150" height="300">|  
+|1|플레이어 캐릭터|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "./img/Citrin_smile.png" width="150" height="300">|  
 |2|마을|<img src="./img/Village.png" width="500">|  
 |3|아이템|<img src="./img/item.png" width="500">|  
 |4|선택지|<img src="./img/choice.PNG" width="500">|  
