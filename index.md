@@ -83,11 +83,11 @@
 
 <br><br>
 # [대표 이미지]
-<img src ="./img/EndingList.png">
+<img src ="./img/EndingList.PNG">
 
 * 지금까지 수집한 엔딩을 볼 수 있음
 
-<img src ="./img/choice.png">
+<img src ="./img/choice.PNG">
 
 * 스토리 진행중 플레이어에게 선택지를 줌
 * 선택에 따라 각각 다른 스토리 진행
